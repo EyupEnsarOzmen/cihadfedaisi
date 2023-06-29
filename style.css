@@ -1,0 +1,91 @@
+#üst {
+  background-color: black;
+  height: 150px;
+  width: 1905px;
+  margin: -10px;
+}
+.logo {
+  height: 150px;
+  margin: 0px 35px;
+}
+a:hover {
+  color: darkgoldenrod;
+  text-decoration: none;
+}
+
+#anasayfa {
+  margin: -90px 1272px;
+}
+.anasayfa {
+  color: darkgoldenrod;
+  text-decoration: none;
+}
+#reels {
+  margin: 72px 1375px;
+}
+.reels {
+  color: darkgoldenrod;
+  text-decoration: none;
+}
+#fotoğraf {
+  margin: -90px 1470px;
+}
+.fotoğraf {
+  color: darkgoldenrod;
+  text-decoration: none;
+}
+#iletişim {
+  margin: 72px 1595px;
+}
+.iletişim {
+  color: darkgoldenrod;
+  text-decoration: none;
+}
+#sayfa {
+  height: 2100px;
+  background-color: rgb(223, 162, 8);
+}
+#foto {
+  height: 290px;
+  margin: 100px 180px;
+}
+#yazı1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  height: 150px;
+  margin: -290px 100px 100px 520px;
+}
+
+#video1 {
+  margin: 100px;
+}
+#video2 {
+  margin: 100px 10px 100px;
+}
+#video3 {
+  margin: 100px;
+}
+#video4 {
+  margin: 100px;
+}
+#foto1 {
+  margin: 100px;
+}
+#foto2 {
+  margin: 100px 70px;
+}
+#foto3 {
+  margin: 100px;
+}
+#foto4 {
+  margin: 100px;
+}
+#insta {
+  font-size: 80px;
+  margin: 230px 750px;
+  margin-bottom: 180px;
+  color: black;
+}
+.insta {
+  text-decoration: none;
+}
